@@ -1,0 +1,31 @@
+# Unity generated files and folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+
+# User-specific configuration files (do not version)
+UserSettings/
+
+# Operating system generated files
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code folder
+.vscode/
+
+# Visual Studio files (if using this IDE)
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Other generated or packaged files
+*.apk
+*.unitypackage
